@@ -1,0 +1,66 @@
+body{
+    background-color: lightgrey;
+    display: flex;
+    justify-content: center;
+}
+
+.instrument{
+    border: 1px solid black;
+    display: flex;
+    height: 170px;
+    width: 40%;
+}
+.box{
+    border: 1px solid black;
+    width: 14%;
+    height: 100%;
+}
+#c{
+    font-style: italic;
+    font-size: 50px;
+    color: purple;
+    background-color: green;
+}
+
+#d{
+    font-style: italic;
+    font-size: 50px;
+    color: orange;
+    background-color: blue;
+}
+
+#e{
+    font-style: italic;
+    font-size: 50px;
+    color:red;
+    background-color: yellow;
+}
+
+#f{
+    font-style: italic;
+    font-size: 50px;
+    color: white;
+    background-color: gray;
+}
+
+#g{
+    font-style: italic;
+    font-size: 50px;
+    color: yellow;
+    background-color: red;
+}
+
+#a{
+    font-style: italic;
+    font-size: 50px;
+    color:blue;
+    background-color: orange;
+}
+
+#b{
+    font-style: italic;
+    font-size: 50px;
+    color:green;
+    background-color: purple;
+}
+
